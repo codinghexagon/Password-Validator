@@ -1,0 +1,37 @@
+.inputContainer {
+  position: relative;
+  margin-top: 15px;
+}
+
+.input {
+  border: 1px solid #dee5eb;
+  border-radius: 10px;
+  width: 100%;
+  padding: 18px 1rem;
+  outline: none;
+}
+
+.label {
+  font-family: "Courier New", Courier, monospace;
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #77838c;
+}
+
+.icon {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.errorLabel {
+  font-family: "Courier New", Courier, monospace;
+  color: red;
+  margin-top: 3px;
+}
