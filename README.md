@@ -16,7 +16,7 @@ Welcome to the Password Validator App, a small React project designed to help yo
 
 # 🎥 [Demo](https://vimeo.com/903423472)
   
-  <img src="demo.gif" alt="Demo GIF" width="450" height="450"/>
+  <img src="demo.gif" alt="Demo GIF" width="1280" height="720"/>
 
 
 ## Getting Started
